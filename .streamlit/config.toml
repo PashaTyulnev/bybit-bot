@@ -1,0 +1,11 @@
+[server]
+address = "127.0.0.1"
+port = 8501
+enableCORS = false
+enableXsrfProtection = false
+headless = true
+
+[browser]
+serverAddress = "pashacryptotrader.de"
+serverPort = 443
+gatherUsageStats = false
